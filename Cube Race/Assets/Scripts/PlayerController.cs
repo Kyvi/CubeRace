@@ -4,6 +4,12 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
+
+
+/*********************************************************/
+/* Programme entièrement implémenté par Vincent Leclerc */
+/********************************************************/
+
 public class PlayerController : MonoBehaviour {
 
 	public GameObject Generator;

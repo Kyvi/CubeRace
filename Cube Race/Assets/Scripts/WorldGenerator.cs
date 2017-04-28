@@ -2,7 +2,15 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
+/*********************************************************/
+ /* Programme entièrement implémenté par Vincent Leclerc */
+ /********************************************************/
+
+
 public class WorldGenerator : MonoBehaviour {
+
 
 	public int nbTurn;
 

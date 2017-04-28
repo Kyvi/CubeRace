@@ -2,6 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
+/*********************************************************/
+/* Programme entièrement implémenté par Vincent Leclerc */
+/********************************************************/
+
 public class AI : MonoBehaviour {
 
 
@@ -59,6 +65,8 @@ public class AI : MonoBehaviour {
 
 		
 	}
+
+	// Algorithme A*
 
 	public void Astar(Graph g, Node start, Node end){
 		List<Node> open = new List<Node> ();
