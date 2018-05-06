@@ -18,7 +18,7 @@ Il est possible de changer les paramètres du parcours dans l'inspecteur sur l'o
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-Developped on Unity,
+Developed on Unity,
 This is an algorithm project done during algorithm class in 2017.
 The player must move its blue cube towards the green cube as fast as possible.
 This game uses A Star algorithm for IA.
